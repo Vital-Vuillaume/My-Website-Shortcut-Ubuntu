@@ -1,8 +1,8 @@
 UTILISATEUR=$(whoami)
 
-FICHIER_DESKTOP="/home/$UTILISATEUR//Téléchargements/Vital-Website.desktop"
+FICHIER_DESKTOP="/home/$UTILISATEUR//Téléchargements/My-Website-Raccourcis-ubuntu/Vital-Website.desktop"
 
-IMAGE="/home/$UTILISATEUR//Téléchargements/icone.png"
+IMAGE="/home/$UTILISATEUR//Téléchargements/My-Website-Raccourcis-ubuntu/icone.png"
 
 BUREAU="$HOME/Bureau"
 
