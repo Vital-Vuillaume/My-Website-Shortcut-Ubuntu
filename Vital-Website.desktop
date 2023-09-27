@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Vital-Website
+Exec=xdg-open file:///home/vital/Documents/Programmation/My-Website/index.html
+Icon=/home/vital/icone.png
+Terminal=false
+Categories=Network;WebBrowser;
+Type=Application
