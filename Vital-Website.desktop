@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Vital-Website
-Exec=xdg-open file:///home/vital/Documents/Programmation/My-Website/index.html
+Exec=xdg-open https://rmbi.ch/vital
 Icon=/home/vital/icone.png
 Terminal=false
 Categories=Network;WebBrowser;
