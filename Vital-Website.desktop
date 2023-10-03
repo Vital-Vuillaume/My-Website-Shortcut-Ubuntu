@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Vital-Website
-Exec=xdg-open https://rmbi.ch/vital
-Icon=/home/vital/icone.png
-Terminal=false
-Categories=Network;WebBrowser;
-Type=Application
